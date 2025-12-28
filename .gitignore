@@ -1,0 +1,4 @@
+*.npz
+demo/output/
+demo/video/
+demo/lib/
