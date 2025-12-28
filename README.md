@@ -68,6 +68,4 @@ Hỗ trợ:
 - Human3.6M
 - MPI-INF-3DHP
 
-## 🙏 Acknowledgments
-
-Dựa trên nghiên cứu về GraphMLP cho bài toán 3D pose estimation. 
+ 
